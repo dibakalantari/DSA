@@ -1,0 +1,5 @@
+https://www.techinterviewhandbook.org/algorithms/array/#traversing-from-the-right
+
+The important thing to remember about this technique is whenever your decision making depends on the items to the right
+of the current item, it's a good idea to start from the end so you can keep track of all the items to the right of each
+element when you get to that element
